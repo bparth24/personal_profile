@@ -27,25 +27,59 @@ Responsible for
   - Served as a subject matter expert on MOBI [Web3 Infrastructure](https://dlt.mobi/web3-infrastructure/) ([ITN](https://dlt.mobi/itn/) and [Citopia](https://dlt.mobi/citopia/)), W3C Standards specifications for [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/)
   - **Technical Content Creator:** Designed and delivered [Web3 Infrastructure workshops](https://dlt.mobi/academy/) covering the [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) by W3C standard specifications, empowering 15+ organizations and 60+ individuals, spanning software engineers to executive leaders.
   
-- **Product Lead:** Leveraged Web3 Infrastructure and worked concurrently on the design & development of Proof of Concepts (PoCs) in diverse domains such as 
+  - **Product Lead:** Leveraged Web3 Infrastructure and worked concurrently on the design & development of Proof of Concepts (PoCs) in diverse domains such as 
     - [Global Battery Passport System](https://citopia.global/marketplace/) - (Ongoing) Nov’ 23 to Dec’ 27 
     - [Vehicle Registration and Titling](https://dlt.mobi/ert/) - (Ongoing) Apr’ 23 to TBD
     - [Dealer Floor Plan Audit](https://dlt.mobi/dfa/) - Mar’ 22 to Apr’ 23
     - [Multimodal as a Service](https://dlt.mobi/maas/) (Transit IDEA Grant Project) - Feb’22 to Apr’ 23
     - [Supply Chain EV Battery track & trace](https://dlt.mobi/battery-trackandtrace/) (upstream and downstream) - Feb’ 22 to Apr’ 22 
     
-- **Product & Code Development:** Actively contributed to code development, including code reviews, testing, and working with the development teams to ensure that product requirements were precise, managed product timelines, and reported to stakeholders, including live product demonstrations.
+  - **Product & Code Development:** Actively contributed to code development, including code reviews, testing, and working with the development teams to ensure that product requirements were precise, managed product timelines, and reported to stakeholders, including live product demonstrations.
   
-- **Technical Evangelist:** Active contribution to whitepapers, [standards](https://dlt.mobi/standards/), and blogs ([ITN Medium](https://itntrust.medium.com/) & [Citopia Medium](https://citopia.medium.com/)) 
-  - [ITN Value & Technical Narrative](https://dlt.mobi/wp-content/uploads/2023/05/ITN0001_WP_2023-Version-1.0.pdf)
-  - [Introduction to Decentralized Identifiers and Verifiable Credentials for Web3 Commerce](https://citopia.medium.com/introduction-to-decentralized-identifiers-and-verifiable-credentials-for-web3-commerce-97187cdafba4)
+  - **Technical Evangelist:** Active contribution to whitepapers, [standards](https://dlt.mobi/standards/), and blogs ([ITN Medium](https://itntrust.medium.com/) & [Citopia Medium](https://citopia.medium.com/)) 
+    - [ITN Value & Technical Narrative](https://dlt.mobi/wp-content/uploads/2023/05/ITN0001_WP_2023-Version-1.0.pdf)
+    - [Introduction to Decentralized Identifiers and Verifiable Credentials for Web3 Commerce](https://citopia.medium.com/introduction-to-decentralized-identifiers-and-verifiable-credentials-for-web3-commerce-97187cdafba4)
 
-### Paypixl Inc. – Software Engineer – Tampa, FL | (Jul' 18 – Jan' 22)
+### Paypixl Inc. – Software Engineer – _Tampa, FL | (Jul' 18 – Jan' 22)_
 #### Project – [Paypixl](https://paypixl.io/): On-demand Drone Imagery Platform (Jul’ 18 to Sep’ 21 – Volunteer work, Sep’ 21 to Jan’ 22 – paid work)
-- **Product & Code Development:**
-  - Spearheaded the backend architecture development from the ground up and wrote the foundational code for the application.
-  - Led and completed the Stripe Integration with the [Paypixl](https://paypixl.io/) platform.
-  - Participated in the product development and implementation process (end-to-end)
+
+Responsible for
+  - **Product & Code Development:**
+    - Spearheaded the backend architecture development from the ground up and wrote the foundational code for the application.
+    - Led and completed the Stripe Integration with the [Paypixl](https://paypixl.io/) platform.
+    - Participated in the product development and implementation process (end-to-end)
   
-- **Product Enhancement:** Researched and brainstormed about incorporating Blockchain with Paypixl products and services.
-- Apart from active involvement in the entire software development lifecycle, I was involved in fundraising efforts.
+  - **Product Enhancement:** Researched and brainstormed about incorporating Blockchain with Paypixl products and services.
+  - Apart from active involvement in the entire software development lifecycle, I was involved in fundraising efforts.
+  
+### Conventus LLC – Technology Solution Engineer – _San Francisco, CA | (Aug' 20 – Sep' 21)_
+#### Project – CRM & Loan Origination System workflow solutions using Salesforce/nCino-based technologies
+
+Responsible for
+  - **Detailed Design & Architecture:**
+    - Designed processes and workflows in nCino, a Salesforce-based project, from inception through product support.
+    - Ensured the system accurately met the business unit's expectations (implementation and testing).
+    - Ensured all required data was transferred from legacy systems to nCino LOS.
+  
+  - **Third-party API Integration Lead:**
+    - Owned and contributed to high-impact special projects - third-party ATTOM data integration, reducing the data entry and research time by 15% overall.
+ 
+### Conventus LLC – Software Engineer – _San Francisco, CA | (Nov' 18 – Jul' 20)_
+#### Project – Built and managed CLEAR Web App, Loan Web App, and other internal micro-services.
+
+Responsible for
+  - **Enhanced Cross-Functional Collaboration:**
+    - Coordinated with cross-functional teams for requirements, providing technical solutions for different processes.
+    - Experience streamlining processes and data flow in shared Google spreadsheets among cross-functional teams.
+    - Collaborated with an offshore UI team – handing over task details and testing code after development.
+  
+  - **Product Lead:**
+    - Actively involved in product development - focusing on building and managing the product roadmap, prioritizing feature requests, and feature impact analysis.
+  
+  - **Product & Code Development:**
+    - Participated in enhancing the existing codebase to improve performance, stability, and end-user experience.
+    - Experience in Backend development - Django REST API, third-party API integration (Salesforce, Calyx software, and a few more) using different programming languages (Python, C#, and Nodejs).
+    - Familiar with service-oriented architecture. Experience in building and managing microservices from scratch.
+    - Built, configured, and managed data-driven automated reporting solutions using Tableau & the CLEAR Web App.
+    - Experience in writing complex SQL scripts and stored procedures for automated reporting solutions.
+    - Actively involved in developing, debugging, and fixing bugs on frontend development (used ReactJS).
