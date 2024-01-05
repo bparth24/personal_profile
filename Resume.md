@@ -83,3 +83,74 @@ Responsible for
     - Built, configured, and managed data-driven automated reporting solutions using Tableau & the CLEAR Web App.
     - Experience in writing complex SQL scripts and stored procedures for automated reporting solutions.
     - Actively involved in developing, debugging, and fixing bugs on frontend development (used ReactJS).
+   
+### Dextro Software Systems Inc. – Software | Data Engineer – _Boston, MA | (Jul' 18 – Nov' 18)_ 
+#### Project – Concenter: Automate the existing ETL process using Python. Build new workflows.
+
+Responsible for
+  - **Processes & Code Optimization Development:**
+    - Dealt with healthcare data to provide analytics and streamlined end-to-end ETL processes, reducing data processing time by 20% and improving overall workflow efficiency.
+    - Experience implementing the entire end-to-end ETL process, from discovering flat files to cataloging, data quality checks, testing (QA), and importing data using Python and SQL Server 2017.
+    - Experience in Bulk Copy Program (BCP) utility with Python for raw data import module.
+    - Hands-on experience efficiently processing large files in chunks and importing them to SQL Server.
+  
+  - **Documentation:** Documented the tasks and used Jira for issue tracking, Bitbucket for source control, and VS 2017 for development.
+
+### Dextro Software Systems Inc. – Software | Data Engineer – _Tampa, FL | (Apr' 17 – Jun' 18)_
+#### Project – Migration from AdvantageDB to Postgres database. Maintaining data warehouse (DWH) and developing milestones and workflow unit report (WUR) structure.
+
+Responsible for
+  - **Cross-functional collaboration & requirement gatherings:**
+    - Collaborated with the executives (VP) and Business Analysts (BAs) at the Real Estate Law Firm to collect the functional requirements.
+    
+  - **ETL Design Pattern Implementation & Development:**
+    - Experience working on master-child package techniques to efficiently manage data loading to the data warehouse.
+    - Hands-on experience creating and modifying existing logical and physical data models, modifying the ETL packages, stored procedures, views, and functions to implement the technical requirements (production and development environment)
+    - Designed, developed, tested, and deployed ETL packages and SSRS reports with complex stored procedures and queries for implementing complex business rules
+    - Experience with managing and testing the ETL process in the production environment
+    - Spearheaded writing the ETL specification documentation and the implementation plan for deployment in different environments.
+    
+  - **Business Intelligence Reporting Solutions:**
+    - Worked on designing and configuring the SSRS reports (types: tabular, matrix, parameterized, and drill-down)
+    - Increased reporting efficiency by 15% compared to the existing reporting solution, delivering timely and accurate information by spearheading the Power BI setup, configuration, and dashboard development
+    - Noticed a 25% increase in user engagement with Power BI dashboards
+    - Performed independent audits, reviews, and validated BI artifacts (stored procedure, queries, and reports) to ensure data integrity
+    
+  - **Proprietary Legacy System:** Experience in debugging C# applications, ETL packages, stored procedures, and WUR Admin tool (C# application)
+    
+  - **Data Migration:** Successfully migrated the data from the AdvantageDB legacy database to Postgres (source system for Reporting tools), minimizing the impact on ongoing operations.
+
+### CNP Integrations – Web Developer – _Fall River, MA | (May '16 – Aug '16)_
+
+### Esprit Solutions Pvt Ltd. – Web Developer – _Gujarat, India | (Nov '14 – Jun '15)_
+
+### Essar Steel India Ltd. – Software Developer – _Gujarat, India | (Mar '14 – Jul '14)_
+
+### Mazcon Infotech – Software Developer – _Gujarat, India | (Jul '12 – Feb '14)_
+
+## Technology Experience & Professional Development
+
+  - **Web3 related Standard Specifications:** Decentralized Public Key Infrastructure (DPKI), [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/), [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/), [DIF DID Comm](https://identity.foundation/didcomm-messaging/spec/).
+    
+  - **Languages/Frameworks/OS:** Javascript, Python, Django REST framework, Nodejs, TypeScript, React, Java, Php, C#, TSQL, Windows, Linux/Unix
+    
+  - **Database Solutions:** Postgres, MS SQL Server, MySQL, Oracle 11g
+    
+  - **IT Architecture & Development Approaches:** Microservices Architecture, Event Driven Architecture, Data Modeling & Warehousing, Interface Strategy & Design (Web Services, Rest APIs), Scrum & Agile
+    
+  - **Cloud Solutions:** AWS, Google Cloud Platform (GCP)
+    
+  - **Applications:** Salesforce.com, nCino
+    
+  - **ETL/Business Intelligence (BI) Tools:** MSBI Stack (SSIS, SSRS, SSMS), Power BI, Tableau
+    
+  - **Other Tools:** Github, Jira, BitBucket, Visual Studio, TFS, SourceTree, Jira, Confluence
+
+## Education
+
+  - **MS, Global Business with Blockchain Technology (Aug 2021)** _University of the Cumberlands – Williamsburg, KY_
+  
+  - **MS, Computer Science (Jan 2017)** _University of Massachusetts – Dartmouth, MA_
+  
+  - **BS, Computer Engineering (Jul 2014)** _Gujarat Technological University – Gujarat, India_
+
