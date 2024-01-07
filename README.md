@@ -1,6 +1,3 @@
-# personal_profile
-Parth's Resume
-
 # Parth Bhatt
 
 bparth24@yahoo.in | [LinkedIn](https://www.linkedin.com/in/bparth24/) | [GitHub](https://github.com/bparth24)
