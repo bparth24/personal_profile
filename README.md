@@ -61,8 +61,7 @@ Responsible for
 
 Responsible for
   - **Enhanced Cross-Functional Collaboration:**
-    - Coordinated with cross-functional teams for requirements, providing technical solutions for different processes.
-    - Enhanced cross-functional team collaboration, improving team efficiency by 20%.
+    - Enhanced cross-functional team collaboration and efficiency by 20% by coordinating with teams to gather requirements and deliver tailored technical solutions for different processes.
     - Collaborated with an offshore UI team – handing over task details and testing code after development.
   
   - **Product Lead:**
