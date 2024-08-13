@@ -3,33 +3,25 @@
 bparth24@yahoo.in | [LinkedIn](https://www.linkedin.com/in/bparth24/) | [GitHub](https://github.com/bparth24)
 
 ## Summary
-- Over 7+ years of proven track record and hands-on experience across different verticals such as (Web3 Infrastructure, finance, real estate lending, healthcare, real estate law firm, manufacturing services, and more).
-- Throughout my work, I have showcased my practical and precise communication skills with stakeholders, a customer-first approach, the ability to blend technical knowledge with business acumen, and a profound understanding of different verticals.
-- Conducting workshops on technical topics for a broader target audience is something I learned in my current job.
-- I believe in and practice leadership with empathy in my day-to-day work.
+- Technical Product Manager with 7+ years of hands-on experience across diverse verticals including Web3, finance, lending, healthcare, and more. 
+- Adept at translating complex technical concepts for a broad audience with proven success in leading workshops  for 15+ organizations.
+- Known for blending technical expertise with business acumen, fostering cross-functional collaboration, and driving product development from 0 to 1.
 - People know me for my punctuality, organizing skills, adaptability and versatility, self-starter, voicing ideas, individual contributor & team player.
-
-## Key Areas of Expertise
-- Leading Software Development Team, Product Development (inception to production), and Strategy.
-- Web3 Infrastructure (DPKI, [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/))
-- Solution Architect
-- Interest in:
-  - Learning zero-knowledge cryptography, zkEVM, Generative AI
-  - Driving and owning social impact projects
 
 ## Professional Background
 
 ### MOBI – Technical Product Manager – _Los Angeles, CA | (Feb' 22 to Present)_
-#### Project – Web3 Infrastructure: Build products leveraging W3C Standards for Decentralized Identifiers and Verifiable Credentials
+#### Project – Web3 Infrastructure: Build products leveraging W3C & DIF Standards ([Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/))
 
 Responsible for
   - **Product Enhancement:** Analyze the competitive industry and product landscape and explore new ways to improve Web3 Infrastructure [ITN](https://dlt.mobi/itn/) and [Citopia](https://dlt.mobi/citopia/) products.
-  - Served as a subject matter expert on MOBI [Web3 Infrastructure](https://dlt.mobi/web3-infrastructure/) ([ITN](https://dlt.mobi/itn/) and [Citopia](https://dlt.mobi/citopia/)), W3C Standards specifications for [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/)
-  - **Technical Content Creator:** Designed and delivered [Web3 Infrastructure workshops](https://dlt.mobi/academy/) covering the [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) by W3C standard specifications, empowering 15+ organizations and 60+ individuals, spanning software engineers to executive leaders.
+  - Acted as SME for MOBI [Web3 Infrastructure](https://dlt.mobi/web3-infrastructure/) ([ITN](https://dlt.mobi/itn/) and [Citopia](https://dlt.mobi/citopia/)), resulting in the successful implementation of 3 projects and 5 more organizations joined to test out the infrastructure.
+    
+  - **Technical Content Creator:** Launched [MOBI Academy](https://dlt.mobi/academy/), designed and delivered workshops covering the [Decentralized Identifiers](https://www.w3.org/TR/did-core/) and [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) by W3C standard specifications, empowering 15+ organizations and 60+ individuals, spanning software engineers to executive leaders.
   
-  - **Product Lead:** Leveraged Web3 Infrastructure and worked concurrently on the design & development of Proof of Concepts (PoCs) in diverse domains such as 
+  - **Product Lead:** Leveraged Web3 Infrastructure and worked concurrently on the design & development of 5 Proof of Concepts (PoCs) in diverse domains such as 
     - [Global Battery Passport System](https://citopia.global/marketplace/) - (Ongoing) Nov’ 23 to Dec’ 27 
-    - [Vehicle Registration and Titling](https://dlt.mobi/ert/) - (Ongoing) Apr’ 23 to TBD
+    - [Vehicle Registration and Titling](https://dlt.mobi/ert/) - Use Case
     - [Dealer Floor Plan Audit](https://dlt.mobi/dfa/) - Mar’ 22 to Apr’ 23
     - [Multimodal as a Service](https://dlt.mobi/maas/) (Transit IDEA Grant Project) - Feb’22 to Apr’ 23
     - [Supply Chain EV Battery track & trace](https://dlt.mobi/battery-trackandtrace/) (upstream and downstream) - Feb’ 22 to Apr’ 22 
@@ -46,7 +38,7 @@ Responsible for
 Responsible for
   - **Product & Code Development:**
     - Spearheaded the backend architecture development from the ground up and wrote the foundational code for the application.
-    - Led and completed the Stripe Integration with the [Paypixl](https://paypixl.io/) platform.
+    - Led and completed the Payment Workflow - Stripe Integration with the [Paypixl](https://paypixl.io/) platform.
     - Participated in the product development and implementation process (end-to-end)
   
   - **Product Enhancement:** Researched and brainstormed about incorporating Blockchain with Paypixl products and services.
@@ -57,12 +49,12 @@ Responsible for
 
 Responsible for
   - **Detailed Design & Architecture:**
-    - Designed processes and workflows in nCino, a Salesforce-based project, from inception through product support.
+    - Designed and implemented nCino workflows, improving processing efficiency by 20%.
     - Ensured the system accurately met the business unit's expectations (implementation and testing).
     - Ensured all required data was transferred from legacy systems to nCino LOS.
   
   - **Third-party API Integration Lead:**
-    - Owned and contributed to high-impact special projects - third-party ATTOM data integration, reducing the data entry and research time by 15% overall.
+    - Led ATTOM data integration, reducing the data entry and research time by 15% and improving overall data accuracy by 10%.
  
 ### Conventus LLC – Software Engineer – _San Francisco, CA | (Nov' 18 – Jul' 20)_
 #### Project – Built and managed CLEAR Web App, Loan Web App, and other internal micro-services.
@@ -70,7 +62,7 @@ Responsible for
 Responsible for
   - **Enhanced Cross-Functional Collaboration:**
     - Coordinated with cross-functional teams for requirements, providing technical solutions for different processes.
-    - Experience streamlining processes and data flow in shared Google spreadsheets among cross-functional teams.
+    - Enhanced cross-functional team collaboration, improving team efficiency by 20%.
     - Collaborated with an offshore UI team – handing over task details and testing code after development.
   
   - **Product Lead:**
@@ -112,7 +104,7 @@ Responsible for
     
   - **Business Intelligence Reporting Solutions:**
     - Worked on designing and configuring the SSRS reports (types: tabular, matrix, parameterized, and drill-down)
-    - Increased reporting efficiency by 15% compared to the existing reporting solution, delivering timely and accurate information by spearheading the Power BI setup, configuration, and dashboard development
+    - Increased reporting efficiency by 15% compared to existing reporting solution, delivering timely and accurate information by spearheading the Power BI setup, configuration, and dashboard development
     - Noticed a 25% increase in user engagement with Power BI dashboards
     - Performed independent audits, reviews, and validated BI artifacts (stored procedure, queries, and reports) to ensure data integrity
     
@@ -128,9 +120,14 @@ Responsible for
 
 ### Mazcon Infotech – Software Developer – _Gujarat, India | (Jul '12 – Feb '14)_
 
-## Technology Experience & Professional Development
-
+## Skills - Technology Experience & Professional Development
+  - Managing Software Development Teams, Concurrent Projects, Leading Product Development (inception to production), and Strategy.
+    
   - **Web3 related Standard Specifications:** Decentralized Public Key Infrastructure (DPKI), [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/), [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/), [DIF DID Comm](https://identity.foundation/didcomm-messaging/spec/).
+  
+  - Strong interest in learning and applying emerging technologies - zero-knowledge cryptography, zkEVM, and Generative AI to drive innovation.
+  
+  - Passionate about driving and owning social impact projects that create positive change. 
     
   - **Languages/Frameworks/OS:** Javascript, Python, Django REST framework, Nodejs, TypeScript, React, Java, Php, C#, TSQL, Windows, Linux/Unix
     
